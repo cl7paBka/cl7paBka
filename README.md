@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning:
 Python basics
 Computer science
-- ⚡ Fun fact: Started to use linux ubuntu 
-Leetcode:
+- ⚡ Fun fact: Started to use linux ubuntu
+-Leetcode:
 https://leetcode.com/pegucka/
-Codewars:
+-Codewars:
 https://www.codewars.com/users/cl7paBka
 --
 cl7paBka/cl7paBka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
