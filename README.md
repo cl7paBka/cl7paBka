@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @cl7paBka
-- 👀 I’m interested in solving interesting tasks on leetcode/codewars and programming CLI-applications.
+- 👀 I'm interested in solving problems on Leetcode/Codewars and creating products that will help people
 - 🌱 I’m currently learning:
-Python basics
 Computer science
-- ⚡ Fun fact: Started to use linux ubuntu
+Python
+Linux
+- ⚡ Fun fact: i use arch btw
 - Leetcode:
 https://leetcode.com/pegucka/
 - Codewars:
