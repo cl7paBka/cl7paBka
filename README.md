@@ -2,8 +2,8 @@
 - 👀 I'm interested in solving problems on Leetcode/Codewars and creating products that will help people
 - 🌱 I’m currently learning:
 Computer science
-Python
-Linux
+| Python
+| Linux
 - ⚡ Fun fact: i use arch btw
 - Leetcode:
 https://leetcode.com/pegucka/
