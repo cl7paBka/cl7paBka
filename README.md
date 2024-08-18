@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cl7paBka
-- 👀 I'm interested in solving problems on Leetcode/Codewars and creating products that will help people
-- 🌱 I’m currently learning:
+- 👀 interested in solving problems on Leetcode/Codewars and creating products that will help people
+- 🌱 currently learning:
 Computer science
 | Python
 | Linux
