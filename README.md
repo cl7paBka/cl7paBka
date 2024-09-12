@@ -1,13 +1,13 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Matemasie&size=36&letterSpacing=letter-spacing%3A+-1px;&duration=4500&pause=3000&color=F75BAF&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+cl7paBka!" alt="Typing SVG" </h1>
-<h3 align="center">Python Back-End developer</h3>
+<h3 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Matemasie&size=28&letterSpacing=letter-spacing%3A+-1px;&duration=5000&pause=1500&color=F75BAF&center=true&vCenter=true&width=500&lines=Python+Back-End+developer+%E2%9A%99%EF%B8%8F;Always+learning+new+things+%F0%9F%93%9A;Code+%F0%9F%92%BB+Optimize+%F0%9F%94%A7+Repeat+%F0%9F%94%84" alt="Typing SVG" </h3>
 
 
 
-- 🔭 I’m currently working on [TelegramChatExplorer](https://github.com/cl7paBka/TelegramChatExplorer)
+ 🔭 I’m currently working on [TelegramChatExplorer](https://github.com/cl7paBka/TelegramChatExplorer)
 
-- 🌱 I’m currently learning **Django, SQL, Git, Data Structures and Algorithms**
+ 🌱 I’m currently learning **Django, SQL, Git, Data Structures and Algorithms**
 
-- ⚡ Fun fact **solved over 100 problems on Leetcode and used Linux (Ubuntu, Arch Linux) as primary operating systems for about a year**
+ ⚡ Fun fact **solved over 100 problems on Leetcode and used Linux (Ubuntu, Arch Linux) as primary operating systems for about a year**
 
 
 
