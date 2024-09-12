@@ -22,7 +22,6 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-# 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cl7paBka&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=cl7paBka&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
