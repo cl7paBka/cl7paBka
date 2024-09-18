@@ -5,7 +5,7 @@
 
  🔭 I’m currently working on [TelegramChatExplorer](https://github.com/cl7paBka/TelegramChatExplorer)
 
- 🌱 I’m currently learning **Django, SQL, Git, Data Structures and Algorithms**
+ 🌱 I’m currently learning **SQL**
 
  ⚡ Fun fact **solved over 100 problems on Leetcode and used Linux (Ubuntu, Arch Linux) as primary operating systems for about a year**
 
