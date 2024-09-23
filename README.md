@@ -3,7 +3,7 @@
 
 
 
- 🔭 I’m currently working on [TelegramChatExplorer](https://github.com/cl7paBka/TelegramChatExplorer)
+ 🔭 I’m currently working on [EmailVerifier](https://github.com/cl7paBka/EmailVerifier)
 
  🌱 I’m currently learning **SQL**
 
