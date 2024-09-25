@@ -3,7 +3,7 @@
 
 
 
- 🔭 I’m currently working on [EmailVerifier](https://github.com/cl7paBka/EmailVerifier)
+ 🔭 I’m currently working on [Quantum computing](https://github.com/cl7paBka/quantum-computing-bonch)
 
  🌱 I’m currently learning **SQL**
 
