@@ -24,8 +24,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cl7paBka&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=cl7paBka&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cl7paBka&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=cl7paBka&icon=7&color=10)](https://visitcount.itsvg.in)
