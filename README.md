@@ -5,7 +5,7 @@
 
  🔭 I’m currently working on [Quantum computing](https://github.com/cl7paBka/quantum-computing-bonch)
 
- 🌱 I’m currently learning **SQL**
+ 🌱 I’m currently learning **PostgreSQL and SQLAlchemy**
 
  ⚡ Fun fact **solved over 100 problems on Leetcode and used Linux (Ubuntu, Arch Linux) as primary operating systems for about a year**
 
