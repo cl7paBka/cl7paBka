@@ -3,7 +3,7 @@
 
 
 
- 🔭 I’m currently working on [car-marketplace-api](https://github.com/cl7paBka/car-marketplace-api)
+ 🔭 I’m currently working on [MyTrophies](https://github.com/cl7paBka/MyTrophies)
 
  🌱 I’m currently learning **Docker**
 
