@@ -5,7 +5,7 @@
 
  🔭 I’m currently working on [car-marketplace-api](https://github.com/cl7paBka/car-marketplace-api)
 
- 🌱 I’m currently learning **PostgreSQL and SQLAlchemy**
+ 🌱 I’m currently learning **Docker**
 
  ⚡ Fun fact **solved over 100 problems on Leetcode and used Linux (Ubuntu, Arch Linux) as primary operating systems for about a year**
 
