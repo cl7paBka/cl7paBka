@@ -2,8 +2,9 @@
 <h3 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Matemasie&size=28&letterSpacing=letter-spacing%3A+-1px;&duration=5000&pause=1500&color=F75BAF&center=true&vCenter=true&width=500&lines=Python+developer+%E2%9A%99%EF%B8%8F;Always+learning+new+things+%F0%9F%93%9A;Code+%F0%9F%92%BB+Optimize+%F0%9F%94%A7+Repeat+%F0%9F%94%84" alt="Typing SVG" </h3>
 
 
-
- 🔭 I’m currently working on [MyTrophies](https://github.com/cl7paBka/MyTrophies)
+ 🏆 [MyTrophies](https://github.com/cl7paBka/MyTrophies)
+ 
+ 🔭 I’m currently working on [car-marketpace-api](https://github.com/cl7paBka/car-marketplace-api)
 
  🌱 I’m currently learning **Docker**
 
