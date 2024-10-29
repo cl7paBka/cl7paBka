@@ -4,7 +4,7 @@
 
  🏆 [MyTrophies](https://github.com/cl7paBka/MyTrophies)
  
- 🔭 I’m currently working on [car-marketpace-api](https://github.com/cl7paBka/car-marketplace-api)
+ 🔭 I’m currently working on [car-marketplace-api](https://github.com/cl7paBka/car-marketplace-api)
 
  🌱 I’m currently learning **Docker**
 
