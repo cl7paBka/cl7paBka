@@ -10,7 +10,7 @@
 
  ⚡ Fun fact **solved over 100 problems on Leetcode and used Linux (Ubuntu, Arch Linux) as primary operating systems for about a year**
 
-
+<img src="https://raw.githubusercontent.com/cl7paBka/cl7paBka/output/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,8 +27,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=cl7paBka&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<img src="https://raw.githubusercontent.com/cl7paBka/cl7paBka/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 [![](https://visitcount.itsvg.in/api?id=cl7paBka&icon=7&color=10)](https://visitcount.itsvg.in)
