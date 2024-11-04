@@ -6,7 +6,7 @@
  
  🔭 I’m currently working on PRIVATE VPN with [Gmex1](https://github.com/GmeX1)
 
- 🌱 I’m currently learning **Docker**
+ 🌱 I’m currently learning [Onion architecture](https://medium.com/expedia-group-tech/onion-architecture-deed8a554423)
 
  ⚡ Fun fact **solved over 100 problems on Leetcode and used Linux (Ubuntu, Arch Linux) as primary operating systems for about a year**
 
