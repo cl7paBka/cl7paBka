@@ -31,7 +31,7 @@
  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-![](https://github-readme-stats.vercel.app/api?username=cl7paBka&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cl7paBka&theme=ambient_gradient&hide_border=false&include_all_commits=True&count_private=True)<br/>
 
 
 
