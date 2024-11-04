@@ -4,7 +4,7 @@
 
  🏆 [MyTrophies](https://github.com/cl7paBka/MyTrophies)
  
- 🔭 I’m currently working on [car-marketplace-api](https://github.com/cl7paBka/car-marketplace-api)
+ 🔭 I’m currently working on PRIVATE VPN with [Gmex1](https://github.com/GmeX1)
 
  🌱 I’m currently learning **Docker**
 
