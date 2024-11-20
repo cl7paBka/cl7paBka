@@ -3,10 +3,8 @@
 
 
  🏆 [MyTrophies](https://github.com/cl7paBka/MyTrophies)
-
- 🙋‍♂️ [MyResume](https://github.com/cl7paBka/MyResume)
  
- 🔭 I’m currently working on [MicroTwit](https://github.com/cl7paBka/MicroTwit)
+ 🔭 I’m currently working on my resume
 
  🌱 I’m currently learning [Onion architecture](https://medium.com/expedia-group-tech/onion-architecture-deed8a554423)
 
