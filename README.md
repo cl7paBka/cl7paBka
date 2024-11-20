@@ -3,6 +3,8 @@
 
 
  🏆 [MyTrophies](https://github.com/cl7paBka/MyTrophies)
+
+ 🙋‍♂️ [MyResume](https://github.com/cl7paBka/MyResume)
  
  🔭 I’m currently working on [MicroTwit](https://github.com/cl7paBka/MicroTwit)
 
