@@ -4,7 +4,7 @@
 
  🏆 [MyTrophies](https://github.com/cl7paBka/MyTrophies)
  
- 🔭 I’m currently working on VPN
+ 🔭 I’m currently studying :D
 
  🌱 I’m currently learning [Onion architecture](https://medium.com/expedia-group-tech/onion-architecture-deed8a554423)
 
