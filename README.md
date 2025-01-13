@@ -6,7 +6,7 @@
  
  🔭 I’m currently looking for a job 
 
- 🌱 I’m currently learning [Onion architecture](https://medium.com/expedia-group-tech/onion-architecture-deed8a554423)
+ 🌱 I’m currently learning Pytest/Unittest
 
  ⚡ Fun fact **solved over 100 problems on Leetcode and used Linux (Ubuntu, Arch Linux) as primary operating systems for about a year**
 
