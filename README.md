@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cl7paBka/MyTrophies" style="text-decoration: none; color: #007A7C; font-weight: 800; font-size: 30px;">
+  <a href="https://amore-teal.vercel.app/" style="text-decoration: none; color: #007A7C; font-weight: 800; font-size: 30px;">
     ❤️ Happy Valentine's day ❤️
   </a>
 </p>
