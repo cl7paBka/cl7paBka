@@ -28,6 +28,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cl7paBka&color=007A7C&style=plastic&base=1000" alt="GitHub Profile Views">
+</p>
+
+<p align="center">
   <a href="https://github.com/cl7paBka/MyTrophies" style="text-decoration: none; color: #007A7C; font-weight: 800; font-size: 30px;">
     Click 🏆 Me
   </a>
