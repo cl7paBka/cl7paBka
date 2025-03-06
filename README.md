@@ -112,16 +112,10 @@
 <h3>💻 Software and Tools</h3>
 <p>
   <a href="#">
-    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-21D789.svg?logo=pycharm&logoColor=black">
-  </a>
-  <a href="#">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   </a>
   <a href="#">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-0db7ed.svg?logo=docker&logoColor=white">
   </a>
   <a href="#">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
@@ -136,14 +130,6 @@
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kalilinux&logoColor=white">
   </a>
   <a href="#">
-    <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </a>
 </p>
 
 <h2>📊 Stats and Activity</h2>
