@@ -38,12 +38,6 @@
 </p>
 
 <p align="center">
-  <a href="https://amore-teal.vercel.app/" style="text-decoration: none; color: #007A7C; font-weight: 800; font-size: 30px;">
-    ❤️ Happy Valentine's day ❤️
-  </a>
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/pegucka/">
     <img src="https://raw.githubusercontent.com/cl7paBka/cl7paBka/output/snake.svg"" alt="LeetCode 50 Days Badge 2023"/>
   </a>
@@ -73,6 +67,9 @@
   <a href="#">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
   </a>
+   <a href="#">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
+  </a>
   <a href="#">
     <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71A1A.svg?logo=sqlalchemy&logoColor=white">
   </a>
@@ -87,9 +84,6 @@
   </a>
   <a href="#">
     <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-2CA5E0.svg?logo=telegram&logoColor=white">
-  </a>
-  <a href="#">
-    <img alt="Pyrogram" src="https://img.shields.io/badge/Pyrogram-2CA5E0.svg?logo=telegram&logoColor=white">
   </a>
 </p>
 
@@ -111,6 +105,12 @@
 
 <h3>💻 Software and Tools</h3>
 <p>
+  <a href="#">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?logo=apachekafka&logoColor=white">
+  </a>
   <a href="#">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   </a>
