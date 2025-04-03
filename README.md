@@ -8,9 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@l7pucocka21">
-    <img src="https://img.shields.io/badge/YouTube-007A7C?style=plastic&logo=youtube&logoColor=C0C0C0" alt="YouTube Badge"/>
-  </a>
   <a href="https://leetcode.com/u/pegucka/">
     <img src="https://img.shields.io/badge/LeetCode-007A7C?style=plastic&logo=leetcode&logoColor=C0C0C0" alt="LeetCode Badge"/>
   </a>
